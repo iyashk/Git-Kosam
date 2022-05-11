@@ -5,3 +5,17 @@ markdown (md) is an easy file extension to store text in formatted form
 commit is a place holder text.
 
 when we see the edits from the commits section in the github page of a specific file....green + indicates that a new line has been added and red - indicates a paritcular line has been removed and white indicates no change
+
+## subheader
+we use "git clone ....." command to cone a repo from online to offline storage.
+and "##" is used to draw a sub heading.
+and when a file is modifies and the status is tracked... we see that it is in stagged format.
+
+"git add ." - will add all the files that are added in the offine version.
+"git add file name" will add the specific file name.
+
+## subheader -2
+"git commit -m text" this will commit a message while changing the folder or file and doing the commit - this shows what and why the commit is made
+ 
+## subheader - 3
+git push - it has 2 parts and origin and a master "origin - is for the location of our git repo" , "master - is the brnach into which we want to push our files into"
