@@ -22,3 +22,8 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
 
 ## subheader - 3
  we can use github push using the source control on vscod ebut we should initialize the repo before..
+ for that we need to click the (tick) symbol to commit the message and then push the repo into git using the push on the ... dots menu.
+
+ ## subheader - 4
+    ### pull on git
+
