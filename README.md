@@ -18,4 +18,7 @@ and when a file is modifies and the status is tracked... we see that it is in st
 "git commit -m text" this will commit a message while changing the folder or file and doing the commit - this shows what and why the commit is made
  
 ## subheader - 3
-git push - it has 2 parts and origin and a master "origin - is for the location of our git repo" , "master - is the brnach into which we want to push our files into"
+git push - it has 2 parts and origin and a master "origin - is for the location of our git repo" , "master - is the branch into which we want to push our files into"
+
+## subheader - 3
+ we can use github push using the source control on vscod ebut we should initialize the repo before..
