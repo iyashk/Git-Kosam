@@ -25,5 +25,11 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
  for that we need to click the (tick) symbol to commit the message and then push the repo into git using the push on the ... dots menu.
 
  ## subheader - 4
-    ### pull on git
+   ### branch on git
+   we create new branch to test our program and then..to check all the current branches wer use "git branch"
 
+   to switch between branches we use the command "git checkout -b <branc name>" if no such branch exists then a new branch is creasted in the given name..
+   and now we swtich to this branch
+
+   ### star on the curent branch is done..and represented for the current branch we are on.
+   
