@@ -31,12 +31,9 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
    to switch between branches we use the command "git checkout -b <branc name>" if no such branch exists then a new branch is creasted in the given name..
    and now we swtich to this branch
 
-   ### star on the curent branch is done..and represented for the current branch we are on.
-<<<<<<< HEAD
+   ### star on the curent branch is done..and represented for the current branch we are on. 
 
-## subheader - 5
-git diff used to list out the lines that have been changed so far.
-and git merge can be sued to mergethe branches.
-=======
+   ### local section 
+   hero bro rahul ante..
+   so in this we create a new branch and then these changes wil not reflect in the main branch.
    
->>>>>>> test-readme
