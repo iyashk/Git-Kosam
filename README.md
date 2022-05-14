@@ -33,4 +33,7 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
 
    ### star on the curent branch is done..and represented for the current branch we are on.
 
+## subheader - 5
+git diff used to list out the lines that have been changed so far.
 
+and git merge can be sued to mergethe branches.
