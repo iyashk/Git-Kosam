@@ -31,7 +31,7 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
    to switch between branches we use the command "git checkout -b <branc name>" if no such branch exists then a new branch is creasted in the given name..
    and now we swtich to this branch
 
-   ### star on the curent branch is done..and represented for the current branch we are on.
+   ### star on the curent branch is done..and represented for the current branch we are on. 
 
    ### local section 
    hero bro rahul ante..
