@@ -45,3 +45,5 @@ so for that we should create a new pull request. and also before pushing agian t
 
 
 so a new branch again
+
+git branch -d <branch-name> would delete the specified branch.
