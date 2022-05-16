@@ -47,3 +47,4 @@ so for that we should create a new pull request. and also before pushing agian t
 so a new branch again
 
 git branch -d <branch-name> would delete the specified branch.
+we will pull the contents of the files on the online github versions when a pull requestis merged , only so we can push for the new time.
