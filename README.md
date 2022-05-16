@@ -33,9 +33,3 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
 
    ### star on the curent branch is done..and represented for the current branch we are on. 
 
-   ### local section 
-   hero bro rahul ante..
-   so in this we create a new branch and then these changes wil not reflect in the main branch.
-   
-   ### branch seciton
-   so in this we create a branch and try to merge it with the main branch using git merge command.
