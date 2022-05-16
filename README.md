@@ -37,3 +37,5 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
 git diff used to list out the lines that have been changed so far.
 
 and git merge can be sued to mergethe branches.
+
+git branch lo idhi.
