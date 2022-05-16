@@ -37,8 +37,12 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
 git diff used to list out the lines that have been changed so far.
 and git merge can be sued to mergethe branches.
 
+<<<<<<< HEAD
 newbranch
 
 when we push / merge the pull requests of 2 branches . we will only get the changes on the online version of the github
 but the changes won't be reflecting in the offline version of our files.
 so for that we should create a new pull request.
+=======
+new branch.
+>>>>>>> e9e13084bfcfd8f06ae477207fad6a012721c9e0
