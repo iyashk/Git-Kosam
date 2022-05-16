@@ -36,4 +36,10 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
 ## subheader - 5
 git diff used to list out the lines that have been changed so far.
 
+<<<<<<< HEAD
 and git merge can be sued to mergethe branches.
+=======
+and git merge can be sued to mergethe branches.
+
+git branch lo idhi.
+>>>>>>> newb
