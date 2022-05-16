@@ -38,3 +38,6 @@ git diff used to list out the lines that have been changed so far.
 and git merge can be sued to mergethe branches.
 
 new branch.
+when we push / merge the pull requests of 2 branches . we will only get the changes on the online version of the github
+but the changes won't be reflecting in the offline version of our files.
+so for that we should create a new pull request.
