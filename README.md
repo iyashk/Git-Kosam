@@ -24,7 +24,7 @@ git push - it has 2 parts and origin and a master "origin - is for the location 
  we can use github push using the source control on vscod ebut we should initialize the repo before..
  for that we need to click the (tick) symbol to commit the message and then push the repo into git using the push on the ... dots menu.
 
- ## subheader - 4
+## subheader - 4
    ### branch on git
    we create new branch to test our program and then..to check all the current branches wer use "git branch"
 
@@ -48,3 +48,7 @@ so a new branch again
 
 git branch -d <branch-name> would delete the specified branch.
 we will pull the contents of the files on the online github versions when a pull requestis merged , only so we can push for the new time.
+
+## undoing in git.
+ we can undo in git using "git reset <file name>"
+ 
