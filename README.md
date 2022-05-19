@@ -51,4 +51,8 @@ we will pull the contents of the files on the online github versions when a pull
 
 ## undoing in git.
  we can undo in git using "git reset <file name>"
+ this is a tempo
+ and "git reset HEAD~1" is used to unstage a latest commit .
+ git log - gives the list of all the commits made till date.
+ and from that commit logwe can get the commit id through which we can unstage any of the commit made earlier.
  
